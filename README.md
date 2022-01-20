@@ -1,2 +1,27 @@
-# 
-Esta es una aplicación que le permite a los usuarios consultar el estado del clima de cualquier ciudad del mundo. ESta aplicacion cuenta con sistema de login que el permite a los usuarios que prentendan utilizarla registrada previamente para poder acceder al home el cual contiene la vista principal de la aplicacion , en la cual se podra consultar la informacion meteorologica de una ciudad, solo ingresando en los capos disponible el nombre de la ciudad y el codigo del pais, como por ejemplo bogota, co; asi es la manera correcta de realizar la busqueda, y dan clic en el boton de obtener clima. los usuarios de podran registrarse a la aplicacion atraves de su correo electronico y una contraseña. esta aplicacion fue desarrollada con framework angular de javascripten su version mas reciente.
+# AngularClimasApp
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
